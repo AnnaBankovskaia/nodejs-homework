@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "target": "esnext",
+    "module": "commonjs",
+    "types": ["node"],
+    "allowSyntheticDefaultImports": true
+  }
+}
